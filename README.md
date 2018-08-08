@@ -1,4 +1,4 @@
-# Amazon Linux Image with Python 3 Support
+## Amazon Linux Image with Python 3 Support
 
 [![docker](https://img.shields.io/docker/automated/developmentseed/amazonlinux-python3.svg)](https://hub.docker.com/r/developmentseed/amazonlinux-python3/)
 
